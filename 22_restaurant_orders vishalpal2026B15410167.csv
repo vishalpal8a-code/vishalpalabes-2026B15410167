@@ -1,0 +1,1006 @@
+Order_ID,Customer_ID,Dish_Name,Category,Order_Type,Item_Quantity,Item_Price,Order_DateTime
+101,C036,Steak,Main Course,Takeaway,4.0,950.0,2026-03-28 11:29:00
+102,C001,Biryani,Main Course,Delivery,3.0,280.0,2026-03-01 15:42:00
+103,C008,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-26 09:01:00
+104,C113,Soup,Starter,Delivery,1.0,90.0,2026-03-07 13:48:00
+105,C099,Fries,Starter,Takeaway,1.0,100.0,2026-03-21 20:08:00
+106,C180,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-21 13:27:00
+107,C207,Noodles,Main Course,Delivery,1.0,200.0,2026-03-17 19:30:00
+108,C047,Steak,Main Course,Delivery,4.0,950.0,2026-03-30 16:59:00
+109,C127,Sandwich,Starter,Delivery,2.0,130.0,2026-03-10 12:33:00
+110,C056,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-11 17:55:00
+111,C214,Steak,Main Course,Dine-in,,950.0,2026-03-22 11:14:00
+112,C014,Soup,Starter,Dine-in,,90.0,2026-03-30 12:47:00
+113,C218,Soup,Starter,Dine-in,,90.0,2026-03-09 19:24:00
+114,C028,Fries,Starter,Dine-in,,100.0,2026-03-09 23:35:00
+115,C215,Noodles,Main Course,Delivery,,200.0,2026-03-24 19:07:00
+116,C078,Biryani,Main Course,Dine-in,,280.0,2026-03-05 17:08:00
+117,C216,Fries,Starter,Delivery,,100.0,2026-03-17 22:57:00
+118,C130,Fries,Starter,Dine-in,,100.0,2026-03-09 18:57:00
+119,C109,Pasta,Main Course,Takeaway,,250.0,2026-03-17 12:36:00
+120,C154,Tacos,Main Course,Delivery,,220.0,2026-03-24 15:47:00
+121,C014,Noodles,Main Course,Takeaway,,200.0,2026-03-21 17:44:00
+122,C187,Pizza,Main Course,Delivery,,300.0,2026-03-19 19:38:00
+123,C056,Fries,Starter,Takeaway,,100.0,2026-03-27 15:31:00
+124,C115,Coffee,Beverage,Dine-in,,80.0,2026-03-07 09:57:00
+125,C007,Tacos,Main Course,Dine-in,,220.0,2026-03-23 14:51:00
+126,C003,Pizza,Main Course,Dine-in,,300.0,2026-03-09 15:16:00
+127,C111,Coffee,Beverage,Delivery,4.0,80.0,2026-03-07 23:34:00
+128,C151,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-13 18:36:00
+129,C238,Burger,Main Course,Dine-in,4.0,150.0,2026-03-11 13:18:00
+130,C107,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-14 12:43:00
+131,C239,Sandwich,Starter,Takeaway,2.0,130.0,2026-03-19 18:28:00
+132,C237,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-11 16:58:00
+133,C018,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-13 20:06:00
+134,C250,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-31 10:27:00
+135,C038,Salad,Starter,Dine-in,4.0,120.0,2026-03-14 19:08:00
+136,C227,Burger,Main Course,Dine-in,1.0,150.0,2026-03-13 20:27:00
+137,C115,Soup,Starter,Dine-in,3.0,90.0,2026-03-01 20:05:00
+138,C015,Soup,Starter,Delivery,4.0,90.0,2026-03-08 17:28:00
+139,C192,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-12 11:57:00
+140,C217,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-19 16:16:00
+141,C119,Coffee,Beverage,Delivery,1.0,80.0,2026-03-12 13:15:00
+142,C229,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-08 15:22:00
+143,C028,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-08 14:30:00
+144,C202,Steak,Main Course,Takeaway,3.0,950.0,2026-03-29 18:02:00
+145,C039,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-21 09:20:00
+146,C185,Salad,Starter,Delivery,3.0,120.0,2026-03-13 10:25:00
+147,C017,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-12 08:35:00
+148,C231,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-29 23:41:00
+149,C086,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-16 16:36:00
+150,C218,Steak,Main Course,Takeaway,4.0,950.0,2026-03-01 20:52:00
+151,C126,Noodles,Main Course,Delivery,2.0,,2026-03-13 14:21:00
+152,C044,Salad,Starter,Delivery,1.0,,2026-03-26 08:41:00
+153,C025,Steak,Main Course,Takeaway,1.0,,2026-03-07 10:11:00
+154,C145,Pizza,Main Course,Dine-in,1.0,,2026-03-28 11:41:00
+155,C013,Biryani,Main Course,Delivery,2.0,,2026-03-26 11:12:00
+156,C212,Salad,Starter,Takeaway,3.0,,2026-03-05 12:10:00
+157,C025,Coffee,Beverage,Takeaway,2.0,,2026-03-08 21:53:00
+158,C068,Pizza,Main Course,Delivery,3.0,,2026-03-25 10:15:00
+159,C138,Sandwich,Starter,Delivery,2.0,,2026-03-27 10:07:00
+160,C067,Salad,Starter,Delivery,2.0,,2026-03-14 08:39:00
+161,C233,Sandwich,Starter,Dine-in,1.0,,2026-03-23 14:58:00
+162,C109,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-30 18:56:00
+163,C146,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-13 17:39:00
+164,C111,Biryani,Main Course,Delivery,3.0,280.0,2026-03-15 21:44:00
+165,C228,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-23 08:58:00
+166,C111,Coffee,Beverage,Delivery,2.0,80.0,2026-03-17 09:01:00
+167,C214,Steak,Main Course,Takeaway,2.0,950.0,2026-03-15 20:29:00
+168,C034,Coffee,Beverage,Dine-in,1.0,80.0,2026-03-20 11:29:00
+169,C111,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-18 20:11:00
+170,C008,Fries,Starter,Dine-in,4.0,100.0,2026-03-18 11:09:00
+171,C168,Pasta,Main Course,Takeaway,3.0,250.0,2026-03-02 12:43:00
+172,C113,Burger,Main Course,Delivery,4.0,150.0,2026-03-04 18:10:00
+173,C236,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-30 09:14:00
+174,C083,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-01 11:15:00
+175,C042,Fries,Starter,Delivery,4.0,100.0,2026-03-31 08:16:00
+176,C169,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-04 09:25:00
+177,C101,Pizza,Main Course,Delivery,3.0,300.0,2026-03-18 08:01:00
+178,C006,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-05 17:49:00
+179,C180,Tacos,Main Course,Delivery,3.0,220.0,2026-03-19 17:11:00
+180,C026,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-15 20:50:00
+181,C064,Biryani,Main Course,Delivery,4.0,280.0,2026-03-28 11:25:00
+182,C226,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-08 11:22:00
+183,C187,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-20 14:17:00
+184,C184,Pizza,Main Course,Delivery,1.0,300.0,2026-03-17 17:31:00
+185,C059,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-01 18:48:00
+186,C109,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-12 18:37:00
+187,C198,Pizza,Main Course,Delivery,3.0,300.0,2026-03-26 16:56:00
+188,C229,Sandwich,Starter,Delivery,2.0,130.0,2026-03-19 16:46:00
+189,C121,Biryani,Main Course,Takeaway,4.0,280.0,2026-03-15 12:02:00
+190,C033,Fries,Starter,Dine-in,2.0,100.0,2026-03-09 17:37:00
+191,C181,Steak,Main Course,Delivery,1.0,950.0,2026-03-07 08:02:00
+192,C150,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-02 08:29:00
+193,C021,Salad,Starter,Delivery,2.0,120.0,2026-03-31 13:00:00
+194,C198,Fries,Starter,Delivery,4.0,100.0,2026-03-29 09:29:00
+195,C070,Noodles,Main Course,Dine-in,2.0,200.0,2026-03-09 15:44:00
+196,C247,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-10 20:31:00
+197,C112,Pizza,Main Course,Delivery,1.0,300.0,2026-03-02 16:27:00
+198,C004,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-19 20:20:00
+199,C094,Fries,Starter,Delivery,4.0,100.0,2026-03-11 11:57:00
+200,C075,Sandwich,Starter,Delivery,3.0,130.0,2026-03-13 12:45:00
+201,C190,Salad,Starter,Delivery,2.0,120.0,2026-03-10 23:12:00
+202,C062,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-14 18:26:00
+203,C094,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-18 15:35:00
+204,C095,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-19 10:06:00
+205,C152,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-22 12:21:00
+206,C055,Salad,Starter,Dine-in,2.0,120.0,2026-03-09 10:09:00
+207,C137,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-25 19:38:00
+208,C247,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-07 17:52:00
+209,C131,Burger,Main Course,Takeaway,3.0,150.0,2026-03-28 10:14:00
+210,C243,Salad,Starter,Dine-in,3.0,120.0,2026-03-03 10:14:00
+211,C031,Steak,Main Course,Delivery,1.0,950.0,2026-03-20 20:03:00
+212,C040,Salad,Starter,Takeaway,4.0,120.0,2026-03-06 19:31:00
+213,C229,Fries,Starter,Takeaway,1.0,100.0,2026-03-27 14:22:00
+214,C036,Burger,Main Course,Takeaway,3.0,150.0,2026-03-21 22:54:00
+215,C152,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-02 14:05:00
+216,C223,Fries,Starter,Delivery,1.0,100.0,2026-03-29 14:23:00
+217,C006,Fries,Starter,Takeaway,1.0,100.0,2026-03-06 17:19:00
+218,C066,Soup,Starter,Delivery,2.0,90.0,2026-03-03 15:57:00
+219,C212,Pasta,Main Course,Delivery,1.0,250.0,2026-03-16 12:36:00
+220,C220,Burger,Main Course,Delivery,2.0,150.0,2026-03-30 12:19:00
+221,C075,Fries,Starter,Delivery,4.0,100.0,2026-03-08 21:11:00
+222,C004,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-02 11:32:00
+223,C079,Pasta,Main Course,Dine-in,4.0,250.0,2026-03-17 14:27:00
+224,C134,Burger,Main Course,Takeaway,2.0,150.0,2026-03-09 17:07:00
+225,C118,Soup,Starter,Dine-in,3.0,90.0,2026-03-30 11:00:00
+226,C113,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-12 22:36:00
+227,C094,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-03 09:21:00
+228,C248,Steak,Main Course,Takeaway,4.0,950.0,2026-03-11 11:05:00
+229,C230,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-01 20:20:00
+230,C179,Salad,Starter,Dine-in,4.0,120.0,2026-03-23 20:31:00
+231,C062,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-13 15:34:00
+232,C185,Steak,Main Course,Takeaway,2.0,950.0,2026-03-15 16:14:00
+233,C194,Salad,Starter,Delivery,3.0,120.0,2026-03-26 23:04:00
+234,C079,Fries,Starter,Takeaway,1.0,100.0,2026-03-05 10:59:00
+235,C203,Coffee,Beverage,Delivery,2.0,80.0,2026-03-21 23:55:00
+236,C136,Pizza,Main Course,Delivery,4.0,300.0,2026-03-30 14:45:00
+237,C026,Burger,Main Course,Takeaway,1.0,150.0,2026-03-17 21:49:00
+238,C179,Steak,Main Course,Takeaway,1.0,950.0,2026-03-31 19:47:00
+239,C173,Steak,Main Course,Takeaway,2.0,950.0,2026-03-31 21:05:00
+240,C044,Fries,Starter,Dine-in,2.0,100.0,2026-03-25 16:24:00
+241,C133,Noodles,Main Course,Delivery,1.0,200.0,2026-03-23 18:55:00
+242,C070,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-24 11:45:00
+243,C154,Coffee,Beverage,Dine-in,3.0,80.0,2026-03-25 17:58:00
+244,C118,Fries,Starter,Takeaway,4.0,100.0,2026-03-06 22:55:00
+245,C068,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-28 10:39:00
+246,C019,Soup,Starter,Takeaway,2.0,90.0,2026-03-21 12:28:00
+247,C212,Pasta,Main Course,Delivery,3.0,250.0,2026-03-22 08:06:00
+248,C225,Burger,Main Course,Takeaway,3.0,150.0,2026-03-11 10:39:00
+249,C020,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-18 22:12:00
+250,C113,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-04 15:37:00
+251,C140,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-03 18:17:00
+252,C047,Burger,Main Course,Takeaway,4.0,150.0,2026-03-13 15:01:00
+253,C001,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-23 22:07:00
+254,C090,Sandwich,Starter,Delivery,2.0,130.0,2026-03-09 20:10:00
+255,C142,Steak,Main Course,Delivery,3.0,950.0,2026-03-21 11:32:00
+256,C064,Steak,Main Course,Takeaway,1.0,950.0,2026-03-06 09:53:00
+257,C038,Soup,Starter,Delivery,1.0,90.0,2026-03-26 20:37:00
+258,C037,Salad,Starter,Dine-in,1.0,120.0,2026-03-30 15:47:00
+259,C126,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-28 15:26:00
+260,C139,Sandwich,Starter,Dine-in,3.0,130.0,2026-03-12 17:19:00
+261,C100,Coffee,Beverage,Dine-in,3.0,80.0,2026-03-02 11:11:00
+262,C077,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-03 10:42:00
+263,C235,Pasta,Main Course,Takeaway,3.0,250.0,2026-03-03 09:30:00
+264,C003,Steak,Main Course,Takeaway,3.0,950.0,2026-03-28 16:26:00
+265,C161,Burger,Main Course,Delivery,1.0,150.0,2026-03-12 08:31:00
+266,C134,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-15 14:09:00
+267,C178,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-09 12:02:00
+268,C248,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-31 15:44:00
+269,C010,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-23 11:26:00
+270,C005,Steak,Main Course,Takeaway,1.0,950.0,2026-03-08 14:34:00
+271,C151,Steak,Main Course,Takeaway,4.0,950.0,2026-03-11 20:30:00
+272,C138,Ice Cream,Dessert,Delivery,1.0,110.0,2026-03-16 12:14:00
+273,C172,Soup,Starter,Delivery,3.0,90.0,2026-03-26 22:15:00
+274,C130,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-27 21:12:00
+275,C013,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-25 12:48:00
+276,C168,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-22 21:34:00
+277,C130,Steak,Main Course,Dine-in,4.0,950.0,2026-03-04 16:51:00
+278,C084,Soup,Starter,Delivery,4.0,90.0,2026-03-28 16:10:00
+279,C065,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-01 20:58:00
+280,C063,Tacos,Main Course,Delivery,4.0,220.0,2026-03-24 16:20:00
+281,C101,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-07 19:50:00
+282,C073,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-02 13:53:00
+283,C017,Sandwich,Starter,Delivery,1.0,130.0,2026-03-24 13:10:00
+284,C009,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-28 12:29:00
+285,C203,Salad,Starter,Takeaway,4.0,120.0,2026-03-05 16:59:00
+286,C143,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-07 17:47:00
+287,C152,Tacos,Main Course,Delivery,4.0,220.0,2026-03-04 15:52:00
+288,C038,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-05 14:34:00
+289,C247,Coffee,Beverage,Delivery,2.0,80.0,2026-03-24 14:21:00
+290,C163,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-01 13:37:00
+291,C094,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-01 12:30:00
+292,C095,Biryani,Main Course,Delivery,1.0,280.0,2026-03-15 20:13:00
+293,C049,Soup,Starter,Delivery,2.0,90.0,2026-03-20 11:23:00
+294,C069,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-19 10:49:00
+295,C062,Steak,Main Course,Dine-in,4.0,950.0,2026-03-29 23:48:00
+296,C188,Coffee,Beverage,Delivery,2.0,80.0,2026-03-10 10:31:00
+297,C236,Salad,Starter,Takeaway,3.0,120.0,2026-03-28 13:35:00
+298,C178,Steak,Main Course,Dine-in,3.0,950.0,2026-03-18 22:31:00
+299,C078,Burger,Main Course,Dine-in,3.0,150.0,2026-03-28 11:54:00
+300,C117,Burger,Main Course,Dine-in,2.0,150.0,2026-03-03 19:14:00
+301,C120,Salad,Starter,Delivery,1.0,120.0,2026-03-11 19:42:00
+302,C203,Soup,Starter,Delivery,4.0,90.0,2026-03-15 13:57:00
+303,C137,Salad,Starter,Delivery,1.0,120.0,2026-03-31 10:34:00
+304,C162,Biryani,Main Course,Delivery,1.0,280.0,2026-03-27 22:02:00
+305,C076,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-30 11:15:00
+306,C227,Salad,Starter,Takeaway,4.0,120.0,2026-03-11 22:04:00
+307,C035,Pasta,Main Course,Delivery,2.0,250.0,2026-03-17 16:20:00
+308,C001,Steak,Main Course,Takeaway,2.0,950.0,2026-03-17 12:09:00
+309,C040,Tacos,Main Course,Dine-in,2.0,220.0,2026-03-06 20:18:00
+310,C064,Fries,Starter,Dine-in,2.0,100.0,2026-03-05 14:24:00
+311,C150,Soup,Starter,Dine-in,2.0,90.0,2026-03-08 17:03:00
+312,C060,Salad,Starter,Delivery,4.0,120.0,2026-03-02 09:28:00
+313,C064,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-16 21:18:00
+314,C093,Burger,Main Course,Takeaway,2.0,150.0,2026-03-20 21:42:00
+315,C072,Pasta,Main Course,Delivery,2.0,250.0,2026-03-24 12:01:00
+316,C011,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-12 16:09:00
+317,C105,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-06 23:42:00
+318,C229,Fries,Starter,Dine-in,1.0,100.0,2026-03-01 18:24:00
+319,C014,Soup,Starter,Dine-in,1.0,90.0,2026-03-31 10:19:00
+320,C060,Tacos,Main Course,Delivery,4.0,220.0,2026-03-04 21:47:00
+321,C030,Fries,Starter,Takeaway,3.0,100.0,2026-03-17 16:18:00
+322,C035,Salad,Starter,Delivery,4.0,120.0,2026-03-13 21:22:00
+323,C213,Biryani,Main Course,Delivery,3.0,280.0,2026-03-18 23:23:00
+324,C165,Burger,Main Course,Dine-in,3.0,150.0,2026-03-05 18:10:00
+325,C005,Burger,Main Course,Delivery,3.0,150.0,2026-03-30 22:45:00
+326,C083,Sandwich,Starter,Delivery,2.0,130.0,2026-03-24 13:33:00
+327,C123,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-24 11:54:00
+328,C078,Coffee,Beverage,Delivery,3.0,80.0,2026-03-27 14:27:00
+329,C154,Steak,Main Course,Dine-in,1.0,950.0,2026-03-03 23:04:00
+330,C062,Pizza,Main Course,Dine-in,2.0,300.0,2026-03-11 15:58:00
+331,C132,Pasta,Main Course,Dine-in,4.0,250.0,2026-03-13 13:04:00
+332,C089,Burger,Main Course,Dine-in,3.0,150.0,2026-03-04 12:50:00
+333,C237,Noodles,Main Course,Delivery,1.0,200.0,2026-03-26 13:20:00
+334,C042,Burger,Main Course,Dine-in,4.0,150.0,2026-03-27 12:11:00
+335,C089,Fries,Starter,Dine-in,4.0,100.0,2026-03-14 15:49:00
+336,C146,Burger,Main Course,Delivery,2.0,150.0,2026-03-22 08:03:00
+337,C040,Soup,Starter,Delivery,4.0,90.0,2026-03-11 23:53:00
+338,C072,Burger,Main Course,Takeaway,2.0,150.0,2026-03-27 18:48:00
+339,C039,Pizza,Main Course,Delivery,3.0,300.0,2026-03-10 14:41:00
+340,C104,Pizza,Main Course,Delivery,2.0,300.0,2026-03-19 22:19:00
+341,C014,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-18 17:37:00
+342,C032,Tacos,Main Course,Delivery,2.0,220.0,2026-03-06 17:24:00
+343,C179,Steak,Main Course,Delivery,1.0,950.0,2026-03-27 23:13:00
+344,C125,Noodles,Main Course,Delivery,2.0,200.0,2026-03-29 18:10:00
+345,C166,Burger,Main Course,Delivery,4.0,150.0,2026-03-15 09:31:00
+346,C097,Burger,Main Course,Takeaway,3.0,150.0,2026-03-21 22:10:00
+347,C023,Pasta,Main Course,Delivery,1.0,250.0,2026-03-30 21:17:00
+348,C063,Pizza,Main Course,Delivery,2.0,300.0,2026-03-10 16:26:00
+349,C143,Noodles,Main Course,Takeaway,2.0,200.0,2026-03-05 08:54:00
+350,C225,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-26 18:53:00
+351,C153,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-29 23:17:00
+352,C145,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-05 17:55:00
+353,C225,Steak,Main Course,Takeaway,1.0,950.0,2026-03-10 13:22:00
+354,C239,Biryani,Main Course,Takeaway,1.0,280.0,2026-03-28 16:10:00
+355,C247,Steak,Main Course,Delivery,4.0,950.0,2026-03-05 08:20:00
+356,C194,Soup,Starter,Dine-in,1.0,90.0,2026-03-03 11:43:00
+357,C206,Fries,Starter,Delivery,3.0,100.0,2026-03-23 23:04:00
+358,C053,Soup,Starter,Dine-in,3.0,90.0,2026-03-06 11:22:00
+359,C104,Burger,Main Course,Takeaway,4.0,150.0,2026-03-04 22:40:00
+360,C104,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-18 16:58:00
+361,C179,Fries,Starter,Dine-in,2.0,100.0,2026-03-28 18:24:00
+362,C039,Noodles,Main Course,Delivery,3.0,200.0,2026-03-09 12:40:00
+363,C179,Biryani,Main Course,Delivery,4.0,280.0,2026-03-17 12:53:00
+364,C198,Pizza,Main Course,Delivery,1.0,300.0,2026-03-29 13:09:00
+365,C134,Tacos,Main Course,Delivery,4.0,220.0,2026-03-13 08:21:00
+366,C067,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-27 08:18:00
+367,C135,Soup,Starter,Takeaway,3.0,90.0,2026-03-15 22:00:00
+368,C179,Burger,Main Course,Takeaway,4.0,150.0,2026-03-30 16:06:00
+369,C200,Salad,Starter,Takeaway,4.0,120.0,2026-03-20 10:03:00
+370,C042,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-17 11:00:00
+371,C192,Soup,Starter,Delivery,2.0,90.0,2026-03-13 08:14:00
+372,C244,Tacos,Main Course,Delivery,4.0,220.0,2026-03-16 16:39:00
+373,C015,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-22 22:11:00
+374,C111,Pasta,Main Course,Delivery,2.0,250.0,2026-03-04 15:21:00
+375,C157,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-05 09:21:00
+376,C033,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-05 15:49:00
+377,C244,Soup,Starter,Takeaway,3.0,90.0,2026-03-09 22:46:00
+378,C222,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-17 23:16:00
+379,C231,Pasta,Main Course,Delivery,4.0,250.0,2026-03-13 14:28:00
+380,C155,Sandwich,Starter,Delivery,3.0,130.0,2026-03-02 18:45:00
+381,C164,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-13 13:13:00
+382,C157,Pasta,Main Course,Delivery,3.0,250.0,2026-03-22 08:49:00
+383,C038,Biryani,Main Course,Delivery,2.0,280.0,2026-03-21 22:19:00
+384,C185,Steak,Main Course,Takeaway,3.0,950.0,2026-03-27 14:49:00
+385,C097,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-23 17:47:00
+386,C229,Salad,Starter,Dine-in,4.0,120.0,2026-03-19 14:32:00
+387,C155,Burger,Main Course,Dine-in,1.0,150.0,2026-03-03 20:54:00
+388,C183,Fries,Starter,Takeaway,4.0,100.0,2026-03-10 21:58:00
+389,C033,Steak,Main Course,Delivery,2.0,950.0,2026-03-02 16:42:00
+390,C196,Pizza,Main Course,Takeaway,2.0,300.0,2026-03-13 08:14:00
+391,C086,Fries,Starter,Takeaway,2.0,100.0,2026-03-19 09:11:00
+392,C066,Burger,Main Course,Delivery,1.0,150.0,2026-03-26 18:39:00
+393,C010,Soup,Starter,Dine-in,3.0,90.0,2026-03-17 16:53:00
+394,C005,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-21 20:19:00
+395,C123,Salad,Starter,Takeaway,4.0,120.0,2026-03-14 16:29:00
+396,C074,Salad,Starter,Dine-in,3.0,120.0,2026-03-31 20:37:00
+397,C097,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-12 13:02:00
+398,C118,Steak,Main Course,Takeaway,1.0,950.0,2026-03-21 13:27:00
+399,C038,Sandwich,Starter,Delivery,4.0,130.0,2026-03-12 11:55:00
+400,C141,Pasta,Main Course,Delivery,2.0,250.0,2026-03-11 11:25:00
+401,C159,Steak,Main Course,Delivery,3.0,950.0,2026-03-07 12:29:00
+402,C047,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-04 10:12:00
+403,C228,Sandwich,Starter,Delivery,3.0,130.0,2026-03-19 08:12:00
+404,C109,Salad,Starter,Dine-in,1.0,120.0,2026-03-01 22:01:00
+405,C216,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-28 08:36:00
+406,C180,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-31 19:48:00
+407,C184,Burger,Main Course,Takeaway,4.0,150.0,2026-03-24 23:37:00
+408,C015,Pizza,Main Course,Delivery,1.0,300.0,2026-03-29 22:01:00
+409,C157,Burger,Main Course,Takeaway,3.0,150.0,2026-03-03 20:35:00
+410,C136,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-13 14:53:00
+411,C005,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-15 23:25:00
+412,C157,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-02 08:10:00
+413,C047,Soup,Starter,Delivery,3.0,90.0,2026-03-11 08:07:00
+414,C068,Steak,Main Course,Takeaway,1.0,950.0,2026-03-04 10:43:00
+415,C076,Salad,Starter,Takeaway,4.0,120.0,2026-03-19 17:39:00
+416,C173,Salad,Starter,Dine-in,2.0,120.0,2026-03-29 22:42:00
+417,C130,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-17 11:21:00
+418,C155,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-03 23:19:00
+419,C095,Pasta,Main Course,Delivery,1.0,250.0,2026-03-28 23:07:00
+420,C115,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-18 23:28:00
+421,C243,Fries,Starter,Takeaway,4.0,100.0,2026-03-08 11:39:00
+422,C164,Tacos,Main Course,Delivery,4.0,220.0,2026-03-22 09:25:00
+423,C036,Fries,Starter,Dine-in,4.0,100.0,2026-03-25 08:29:00
+424,C026,Burger,Main Course,Dine-in,3.0,150.0,2026-03-24 10:16:00
+425,C043,Fries,Starter,Delivery,3.0,100.0,2026-03-26 18:19:00
+426,C027,Biryani,Main Course,Delivery,3.0,280.0,2026-03-19 11:51:00
+427,C069,Soup,Starter,Dine-in,2.0,90.0,2026-03-05 10:54:00
+428,C148,Burger,Main Course,Takeaway,3.0,150.0,2026-03-07 15:15:00
+429,C011,Fries,Starter,Dine-in,2.0,100.0,2026-03-21 21:45:00
+430,C074,Biryani,Main Course,Delivery,4.0,280.0,2026-03-08 17:42:00
+431,C104,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-28 08:06:00
+432,C038,Fries,Starter,Delivery,3.0,100.0,2026-03-05 21:15:00
+433,C134,Biryani,Main Course,Delivery,1.0,280.0,2026-03-17 09:44:00
+434,C200,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-05 20:58:00
+435,C023,Salad,Starter,Delivery,4.0,120.0,2026-03-04 14:46:00
+436,C047,Pasta,Main Course,Delivery,1.0,250.0,2026-03-22 11:55:00
+437,C090,Salad,Starter,Takeaway,1.0,120.0,2026-03-19 15:47:00
+438,C046,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-31 18:26:00
+439,C107,Pizza,Main Course,Takeaway,1.0,300.0,2026-03-27 20:52:00
+440,C140,Pizza,Main Course,Takeaway,2.0,300.0,2026-03-21 10:22:00
+441,C218,Pizza,Main Course,Delivery,2.0,300.0,2026-03-02 13:23:00
+442,C141,Tacos,Main Course,Delivery,3.0,220.0,2026-03-11 16:08:00
+443,C104,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-22 08:34:00
+444,C190,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-13 08:50:00
+445,C210,Salad,Starter,Dine-in,1.0,120.0,2026-03-15 15:19:00
+446,C217,Biryani,Main Course,Delivery,2.0,280.0,2026-03-12 10:36:00
+447,C225,Burger,Main Course,Dine-in,2.0,150.0,2026-03-22 12:41:00
+448,C111,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-21 08:16:00
+449,C104,Burger,Main Course,Dine-in,1.0,150.0,2026-03-22 12:46:00
+450,C060,Noodles,Main Course,Takeaway,2.0,200.0,2026-03-11 18:30:00
+451,C171,Biryani,Main Course,Delivery,1.0,280.0,2026-03-07 23:54:00
+452,C204,Fries,Starter,Delivery,3.0,100.0,2026-03-28 13:56:00
+453,C236,Fries,Starter,Takeaway,1.0,100.0,2026-03-05 15:07:00
+454,C100,Steak,Main Course,Delivery,3.0,950.0,2026-03-17 20:14:00
+455,C240,Pasta,Main Course,Delivery,1.0,250.0,2026-03-24 23:30:00
+456,C068,Burger,Main Course,Delivery,3.0,150.0,2026-03-20 23:52:00
+457,C133,Burger,Main Course,Delivery,2.0,150.0,2026-03-09 21:29:00
+458,C120,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-14 10:45:00
+459,C037,Soup,Starter,Dine-in,2.0,90.0,2026-03-26 10:19:00
+460,C072,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-12 19:59:00
+461,C127,Tacos,Main Course,Delivery,3.0,220.0,2026-03-06 23:38:00
+462,C106,Steak,Main Course,Dine-in,1.0,950.0,2026-03-17 18:52:00
+463,C241,Tacos,Main Course,Dine-in,1.0,220.0,2026-03-19 18:54:00
+464,C092,Tacos,Main Course,Delivery,4.0,220.0,2026-03-19 17:11:00
+465,C031,Tacos,Main Course,Delivery,1.0,220.0,2026-03-26 16:48:00
+466,C122,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-16 11:16:00
+467,C137,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-12 22:41:00
+468,C246,Tacos,Main Course,Delivery,1.0,220.0,2026-03-12 11:29:00
+469,C051,Fries,Starter,Takeaway,2.0,100.0,2026-03-20 19:28:00
+470,C029,Soup,Starter,Dine-in,4.0,90.0,2026-03-06 14:18:00
+471,C206,Soup,Starter,Delivery,1.0,90.0,2026-03-31 09:45:00
+472,C040,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-23 15:10:00
+473,C041,Noodles,Main Course,Delivery,2.0,200.0,2026-03-26 13:33:00
+474,C214,Burger,Main Course,Dine-in,2.0,150.0,2026-03-04 10:49:00
+475,C011,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-06 16:06:00
+476,C151,Burger,Main Course,Dine-in,2.0,150.0,2026-03-11 12:43:00
+477,C001,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-01 15:57:00
+478,C046,Coffee,Beverage,Delivery,3.0,80.0,2026-03-30 14:33:00
+479,C101,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-24 21:58:00
+480,C149,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-23 15:19:00
+481,C090,Biryani,Main Course,Dine-in,1.0,280.0,2026-03-15 14:49:00
+482,C110,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-27 10:37:00
+483,C164,Burger,Main Course,Dine-in,1.0,150.0,2026-03-11 09:23:00
+484,C182,Burger,Main Course,Dine-in,4.0,150.0,2026-03-25 23:09:00
+485,C215,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-19 14:31:00
+486,C057,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-18 10:51:00
+487,C001,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-17 10:14:00
+488,C063,Noodles,Main Course,Takeaway,2.0,200.0,2026-03-19 09:36:00
+489,C182,Tacos,Main Course,Delivery,4.0,220.0,2026-03-21 11:19:00
+490,C055,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-14 23:02:00
+491,C115,Coffee,Beverage,Delivery,4.0,80.0,2026-03-27 15:36:00
+492,C168,Salad,Starter,Delivery,1.0,120.0,2026-03-18 19:56:00
+493,C143,Noodles,Main Course,Delivery,3.0,200.0,2026-03-28 08:39:00
+494,C149,Fries,Starter,Dine-in,4.0,100.0,2026-03-19 08:07:00
+495,C175,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-15 19:39:00
+496,C201,Burger,Main Course,Delivery,1.0,150.0,2026-03-31 21:43:00
+497,C053,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-15 12:55:00
+498,C137,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-04 18:22:00
+499,C202,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-07 12:39:00
+500,C180,Burger,Main Course,Takeaway,4.0,150.0,2026-03-13 18:10:00
+501,C057,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-03 19:45:00
+502,C117,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-16 08:07:00
+503,C154,Noodles,Main Course,Delivery,2.0,200.0,2026-03-31 13:28:00
+504,C169,Steak,Main Course,Dine-in,2.0,950.0,2026-03-09 08:29:00
+505,C035,Burger,Main Course,Takeaway,4.0,150.0,2026-03-08 12:55:00
+506,C063,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-20 16:59:00
+507,C244,Pizza,Main Course,Takeaway,3.0,300.0,2026-03-13 19:09:00
+508,C025,Salad,Starter,Dine-in,3.0,120.0,2026-03-17 21:38:00
+509,C090,Sandwich,Starter,Dine-in,4.0,130.0,2026-03-17 12:27:00
+510,C075,Tacos,Main Course,Dine-in,2.0,220.0,2026-03-17 13:48:00
+511,C038,Sandwich,Starter,Dine-in,4.0,130.0,2026-03-01 15:35:00
+512,C130,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-08 18:12:00
+513,C135,Fries,Starter,Takeaway,4.0,100.0,2026-03-19 08:31:00
+514,C210,Fries,Starter,Delivery,4.0,100.0,2026-03-31 21:35:00
+515,C219,Pizza,Main Course,Takeaway,2.0,300.0,2026-03-06 09:36:00
+516,C162,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-03 23:25:00
+517,C091,Steak,Main Course,Delivery,2.0,950.0,2026-03-27 16:21:00
+518,C017,Pizza,Main Course,Delivery,1.0,300.0,2026-03-05 10:03:00
+519,C128,Soup,Starter,Delivery,1.0,90.0,2026-03-13 13:30:00
+520,C171,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-15 12:17:00
+521,C187,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-14 18:37:00
+522,C108,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-29 09:23:00
+523,C179,Burger,Main Course,Delivery,1.0,150.0,2026-03-31 21:55:00
+524,C182,Fries,Starter,Dine-in,4.0,100.0,2026-03-23 22:22:00
+525,C152,Burger,Main Course,Dine-in,4.0,150.0,2026-03-16 14:21:00
+526,C025,Salad,Starter,Takeaway,3.0,120.0,2026-03-18 11:01:00
+527,C199,Soup,Starter,Takeaway,4.0,90.0,2026-03-22 08:30:00
+528,C180,Tacos,Main Course,Delivery,2.0,220.0,2026-03-29 20:54:00
+529,C198,Steak,Main Course,Dine-in,2.0,950.0,2026-03-22 11:10:00
+530,C245,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-11 13:27:00
+531,C088,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-03 14:45:00
+532,C161,Steak,Main Course,Dine-in,1.0,950.0,2026-03-22 22:31:00
+533,C177,Sandwich,Starter,Dine-in,4.0,130.0,2026-03-10 14:04:00
+534,C029,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-10 21:37:00
+535,C063,Pizza,Main Course,Takeaway,1.0,300.0,2026-03-30 14:09:00
+536,C235,Salad,Starter,Delivery,3.0,120.0,2026-03-21 10:39:00
+537,C150,Fries,Starter,Delivery,3.0,100.0,2026-03-16 23:45:00
+538,C154,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-12 13:23:00
+539,C156,Coffee,Beverage,Delivery,3.0,80.0,2026-03-02 20:34:00
+540,C114,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-09 15:43:00
+541,C213,Steak,Main Course,Takeaway,2.0,950.0,2026-03-24 11:47:00
+542,C049,Salad,Starter,Delivery,4.0,120.0,2026-03-03 20:59:00
+543,C199,Biryani,Main Course,Delivery,4.0,280.0,2026-03-24 15:22:00
+544,C081,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-30 09:16:00
+545,C084,Biryani,Main Course,Delivery,4.0,280.0,2026-03-25 22:00:00
+546,C105,Burger,Main Course,Dine-in,4.0,150.0,2026-03-30 17:54:00
+547,C177,Fries,Starter,Dine-in,3.0,100.0,2026-03-15 16:30:00
+548,C148,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-03 16:30:00
+549,C118,Pasta,Main Course,Takeaway,3.0,250.0,2026-03-19 15:41:00
+550,C086,Steak,Main Course,Takeaway,1.0,950.0,2026-03-18 17:56:00
+551,C220,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-08 21:54:00
+552,C063,Pizza,Main Course,Delivery,2.0,300.0,2026-03-26 20:41:00
+553,C189,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-17 17:52:00
+554,C104,Steak,Main Course,Delivery,4.0,950.0,2026-03-08 08:55:00
+555,C049,Tacos,Main Course,Takeaway,4.0,220.0,2026-03-07 09:33:00
+556,C071,Pasta,Main Course,Delivery,2.0,250.0,2026-03-30 13:08:00
+557,C001,Salad,Starter,Dine-in,1.0,120.0,2026-03-07 17:21:00
+558,C224,Sandwich,Starter,Delivery,1.0,130.0,2026-03-03 12:12:00
+559,C141,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-01 19:24:00
+560,C222,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-04 21:47:00
+561,C215,Sandwich,Starter,Delivery,2.0,130.0,2026-03-25 16:17:00
+562,C179,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-05 12:50:00
+563,C123,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-01 09:11:00
+564,C184,Burger,Main Course,Takeaway,3.0,150.0,2026-03-15 17:39:00
+565,C211,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-05 11:16:00
+566,C062,Sandwich,Starter,Delivery,1.0,130.0,2026-03-13 16:14:00
+567,C032,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-08 08:41:00
+568,C158,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-08 18:14:00
+569,C029,Soup,Starter,Delivery,3.0,90.0,2026-03-05 08:14:00
+570,C049,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-28 19:54:00
+571,C173,Noodles,Main Course,Delivery,1.0,200.0,2026-03-09 14:38:00
+572,C221,Burger,Main Course,Dine-in,1.0,150.0,2026-03-31 18:12:00
+573,C030,Fries,Starter,Takeaway,4.0,100.0,2026-03-01 10:16:00
+574,C144,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-04 17:31:00
+575,C168,Coffee,Beverage,Delivery,1.0,80.0,2026-03-03 09:08:00
+576,C019,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-02 16:39:00
+577,C018,Coffee,Beverage,Delivery,1.0,80.0,2026-03-31 10:19:00
+578,C001,Noodles,Main Course,Delivery,1.0,200.0,2026-03-08 23:25:00
+579,C078,Steak,Main Course,Delivery,2.0,950.0,2026-03-23 09:26:00
+580,C115,Biryani,Main Course,Delivery,1.0,280.0,2026-03-09 19:20:00
+581,C175,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-02 15:17:00
+582,C242,Ice Cream,Dessert,Delivery,3.0,110.0,2026-03-14 17:12:00
+583,C194,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-14 13:15:00
+584,C246,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-04 13:08:00
+585,C220,Steak,Main Course,Takeaway,3.0,950.0,2026-03-30 17:11:00
+586,C113,Fries,Starter,Dine-in,2.0,100.0,2026-03-31 18:43:00
+587,C114,Biryani,Main Course,Delivery,3.0,280.0,2026-03-06 14:37:00
+588,C222,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-11 14:18:00
+589,C166,Pizza,Main Course,Dine-in,1.0,300.0,2026-03-03 18:59:00
+590,C179,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-08 20:06:00
+591,C063,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-03 22:56:00
+592,C132,Pasta,Main Course,Delivery,1.0,250.0,2026-03-14 13:34:00
+593,C129,Burger,Main Course,Dine-in,2.0,150.0,2026-03-28 11:47:00
+594,C008,Fries,Starter,Dine-in,4.0,100.0,2026-03-13 18:17:00
+595,C157,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-13 16:15:00
+596,C055,Coffee,Beverage,Delivery,3.0,80.0,2026-03-02 13:54:00
+597,C103,Sandwich,Starter,Delivery,1.0,130.0,2026-03-13 11:38:00
+598,C131,Steak,Main Course,Delivery,3.0,950.0,2026-03-29 19:03:00
+599,C032,Sandwich,Starter,Delivery,2.0,130.0,2026-03-19 10:58:00
+600,C010,Noodles,Main Course,Delivery,1.0,200.0,2026-03-27 11:24:00
+601,C202,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-06 10:31:00
+602,C211,Noodles,Main Course,Dine-in,2.0,200.0,2026-03-16 22:39:00
+603,C110,Steak,Main Course,Dine-in,2.0,950.0,2026-03-02 09:12:00
+604,C162,Salad,Starter,Dine-in,2.0,120.0,2026-03-08 21:44:00
+605,C124,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-17 12:16:00
+606,C225,Noodles,Main Course,Dine-in,2.0,200.0,2026-03-23 09:48:00
+607,C087,Burger,Main Course,Dine-in,1.0,150.0,2026-03-02 13:36:00
+608,C055,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-10 10:05:00
+609,C220,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-28 13:18:00
+610,C032,Burger,Main Course,Takeaway,1.0,150.0,2026-03-16 22:12:00
+611,C178,Pizza,Main Course,Dine-in,2.0,300.0,2026-03-06 18:56:00
+612,C135,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-28 17:59:00
+613,C093,Salad,Starter,Delivery,4.0,120.0,2026-03-02 16:25:00
+614,C008,Fries,Starter,Dine-in,1.0,100.0,2026-03-02 08:13:00
+615,C065,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-26 23:30:00
+616,C057,Noodles,Main Course,Delivery,2.0,200.0,2026-03-13 23:53:00
+617,C247,Burger,Main Course,Delivery,2.0,150.0,2026-03-24 13:03:00
+618,C067,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-15 16:59:00
+619,C216,Steak,Main Course,Delivery,4.0,950.0,2026-03-31 18:38:00
+620,C215,Noodles,Main Course,Delivery,3.0,200.0,2026-03-28 11:07:00
+621,C187,Tacos,Main Course,Delivery,1.0,220.0,2026-03-02 18:24:00
+622,C072,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-07 19:12:00
+623,C054,Steak,Main Course,Dine-in,2.0,950.0,2026-03-03 09:31:00
+624,C249,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-08 20:58:00
+625,C239,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-23 11:37:00
+626,C229,Sandwich,Starter,Dine-in,3.0,130.0,2026-03-14 08:37:00
+627,C067,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-24 10:55:00
+628,C051,Noodles,Main Course,Dine-in,2.0,200.0,2026-03-30 17:27:00
+629,C097,Tacos,Main Course,Delivery,4.0,220.0,2026-03-23 16:52:00
+630,C092,Salad,Starter,Delivery,3.0,120.0,2026-03-27 17:29:00
+631,C239,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-22 12:02:00
+632,C008,Coffee,Beverage,Dine-in,3.0,80.0,2026-03-29 22:27:00
+633,C162,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-07 18:02:00
+634,C035,Burger,Main Course,Takeaway,3.0,150.0,2026-03-21 13:44:00
+635,C096,Biryani,Main Course,Dine-in,3.0,280.0,2026-03-07 10:53:00
+636,C088,Noodles,Main Course,Delivery,1.0,200.0,2026-03-01 23:33:00
+637,C078,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-17 12:15:00
+638,C032,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-09 18:21:00
+639,C120,Sandwich,Starter,Dine-in,3.0,130.0,2026-03-30 15:31:00
+640,C046,Noodles,Main Course,Takeaway,1.0,200.0,2026-03-21 13:37:00
+641,C235,Steak,Main Course,Dine-in,4.0,950.0,2026-03-13 11:07:00
+642,C144,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-21 09:54:00
+643,C196,Burger,Main Course,Dine-in,3.0,150.0,2026-03-19 21:07:00
+644,C244,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-21 16:56:00
+645,C165,Steak,Main Course,Dine-in,2.0,950.0,2026-03-19 20:05:00
+646,C182,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-25 19:13:00
+647,C213,Sandwich,Starter,Delivery,2.0,130.0,2026-03-25 08:31:00
+648,C142,Tacos,Main Course,Delivery,3.0,220.0,2026-03-22 08:34:00
+649,C223,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-31 20:09:00
+650,C055,Biryani,Main Course,Takeaway,4.0,280.0,2026-03-17 11:02:00
+651,C176,Pizza,Main Course,Delivery,1.0,300.0,2026-03-23 14:58:00
+652,C210,Biryani,Main Course,Delivery,3.0,280.0,2026-03-23 08:11:00
+653,C007,Sandwich,Starter,Delivery,2.0,130.0,2026-03-30 16:48:00
+654,C074,Sandwich,Starter,Delivery,4.0,130.0,2026-03-10 11:58:00
+655,C007,Pasta,Main Course,Delivery,4.0,250.0,2026-03-10 10:30:00
+656,C161,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-04 08:28:00
+657,C151,Burger,Main Course,Takeaway,3.0,150.0,2026-03-08 17:04:00
+658,C085,Fries,Starter,Dine-in,1.0,100.0,2026-03-22 11:51:00
+659,C147,Noodles,Main Course,Delivery,1.0,200.0,2026-03-20 16:24:00
+660,C112,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-20 20:40:00
+661,C125,Biryani,Main Course,Delivery,2.0,280.0,2026-03-18 21:30:00
+662,C147,Fries,Starter,Dine-in,4.0,100.0,2026-03-14 17:20:00
+663,C036,Steak,Main Course,Dine-in,2.0,950.0,2026-03-18 23:57:00
+664,C029,Pizza,Main Course,Delivery,1.0,300.0,2026-03-28 23:19:00
+665,C188,Burger,Main Course,Dine-in,3.0,150.0,2026-03-14 13:38:00
+666,C082,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-20 23:21:00
+667,C002,Soup,Starter,Delivery,1.0,90.0,2026-03-21 13:03:00
+668,C129,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-24 08:12:00
+669,C047,Fries,Starter,Takeaway,2.0,100.0,2026-03-15 17:44:00
+670,C197,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-22 09:41:00
+671,C148,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-30 18:49:00
+672,C011,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-31 13:48:00
+673,C234,Coffee,Beverage,Delivery,1.0,80.0,2026-03-04 09:19:00
+674,C130,Burger,Main Course,Delivery,2.0,150.0,2026-03-13 10:51:00
+675,C195,Burger,Main Course,Delivery,4.0,150.0,2026-03-27 11:12:00
+676,C215,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-23 18:16:00
+677,C119,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-08 12:53:00
+678,C140,Soup,Starter,Dine-in,3.0,90.0,2026-03-18 22:35:00
+679,C020,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-12 16:32:00
+680,C005,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-23 19:00:00
+681,C037,Pasta,Main Course,Takeaway,1.0,250.0,2026-03-31 22:14:00
+682,C166,Burger,Main Course,Takeaway,3.0,150.0,2026-03-14 22:12:00
+683,C222,Burger,Main Course,Takeaway,2.0,150.0,2026-03-02 11:16:00
+684,C137,Fries,Starter,Dine-in,3.0,100.0,2026-03-18 20:23:00
+685,C226,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-24 18:57:00
+686,C053,Soup,Starter,Dine-in,1.0,90.0,2026-03-02 16:07:00
+687,C172,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-31 18:49:00
+688,C099,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-11 17:26:00
+689,C244,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-09 10:44:00
+690,C250,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-12 15:22:00
+691,C086,Pizza,Main Course,Dine-in,2.0,300.0,2026-03-17 19:45:00
+692,C108,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-15 08:07:00
+693,C024,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-25 18:07:00
+694,C081,Pizza,Main Course,Delivery,4.0,300.0,2026-03-31 16:58:00
+695,C202,Pasta,Main Course,Delivery,4.0,250.0,2026-03-17 16:25:00
+696,C158,Steak,Main Course,Dine-in,1.0,950.0,2026-03-26 17:46:00
+697,C120,Burger,Main Course,Dine-in,4.0,150.0,2026-03-29 09:58:00
+698,C059,Sandwich,Starter,Delivery,1.0,130.0,2026-03-26 11:12:00
+699,C238,Fries,Starter,Takeaway,1.0,100.0,2026-03-18 20:38:00
+700,C215,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-22 15:36:00
+701,C128,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-06 14:48:00
+702,C224,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-17 08:27:00
+703,C209,Sandwich,Starter,Delivery,3.0,130.0,2026-03-23 12:24:00
+704,C114,Pizza,Main Course,Delivery,3.0,300.0,2026-03-24 14:15:00
+705,C115,Pasta,Main Course,Delivery,4.0,250.0,2026-03-18 22:54:00
+706,C209,Salad,Starter,Delivery,2.0,120.0,2026-03-08 23:01:00
+707,C014,Steak,Main Course,Dine-in,4.0,950.0,2026-03-09 11:53:00
+708,C009,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-06 22:17:00
+709,C040,Sandwich,Starter,Delivery,2.0,130.0,2026-03-05 23:16:00
+710,C194,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-12 22:29:00
+711,C237,Pizza,Main Course,Delivery,4.0,300.0,2026-03-25 08:38:00
+712,C025,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-29 16:12:00
+713,C103,Soup,Starter,Takeaway,4.0,90.0,2026-03-28 21:31:00
+714,C201,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-11 12:49:00
+715,C246,Fries,Starter,Delivery,3.0,100.0,2026-03-25 18:28:00
+716,C022,Biryani,Main Course,Takeaway,4.0,280.0,2026-03-01 23:45:00
+717,C235,Salad,Starter,Dine-in,3.0,120.0,2026-03-11 09:29:00
+718,C238,Noodles,Main Course,Takeaway,1.0,200.0,2026-03-19 15:17:00
+719,C004,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-09 18:12:00
+720,C154,Salad,Starter,Takeaway,3.0,120.0,2026-03-27 20:42:00
+721,C186,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-02 09:20:00
+722,C029,Sandwich,Starter,Delivery,3.0,130.0,2026-03-12 10:29:00
+723,C109,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-04 21:20:00
+724,C098,Salad,Starter,Delivery,2.0,120.0,2026-03-04 17:47:00
+725,C215,Fries,Starter,Delivery,1.0,100.0,2026-03-18 08:54:00
+726,C037,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-15 18:16:00
+727,C075,Burger,Main Course,Delivery,1.0,150.0,2026-03-19 23:39:00
+728,C070,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-13 09:18:00
+729,C146,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-19 21:51:00
+730,C128,Pizza,Main Course,Delivery,4.0,300.0,2026-03-17 23:14:00
+731,C085,Burger,Main Course,Takeaway,1.0,150.0,2026-03-06 14:08:00
+732,C042,Steak,Main Course,Takeaway,4.0,950.0,2026-03-16 17:51:00
+733,C100,Fries,Starter,Dine-in,4.0,100.0,2026-03-24 09:09:00
+734,C041,Steak,Main Course,Takeaway,4.0,950.0,2026-03-12 13:43:00
+735,C166,Noodles,Main Course,Delivery,3.0,200.0,2026-03-19 22:30:00
+736,C034,Coffee,Beverage,Delivery,1.0,80.0,2026-03-05 10:52:00
+737,C017,Burger,Main Course,Dine-in,4.0,150.0,2026-03-17 11:22:00
+738,C165,Steak,Main Course,Delivery,2.0,950.0,2026-03-26 18:51:00
+739,C153,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-23 22:29:00
+740,C230,Steak,Main Course,Delivery,2.0,950.0,2026-03-26 20:32:00
+741,C122,Salad,Starter,Dine-in,2.0,120.0,2026-03-29 15:56:00
+742,C076,Pasta,Main Course,Takeaway,3.0,250.0,2026-03-01 21:51:00
+743,C087,Salad,Starter,Delivery,4.0,120.0,2026-03-28 10:08:00
+744,C117,Burger,Main Course,Delivery,1.0,150.0,2026-03-27 17:53:00
+745,C106,Burger,Main Course,Dine-in,4.0,150.0,2026-03-25 13:46:00
+746,C086,Biryani,Main Course,Dine-in,3.0,280.0,2026-03-24 08:00:00
+747,C213,Salad,Starter,Delivery,2.0,120.0,2026-03-23 14:43:00
+748,C027,Tacos,Main Course,Dine-in,3.0,220.0,2026-03-10 15:34:00
+749,C057,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-15 18:10:00
+750,C031,Soup,Starter,Takeaway,1.0,90.0,2026-03-23 21:33:00
+751,C134,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-21 15:15:00
+752,C219,Burger,Main Course,Delivery,1.0,150.0,2026-03-21 10:08:00
+753,C168,Biryani,Main Course,Takeaway,3.0,280.0,2026-03-11 21:31:00
+754,C098,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-13 17:14:00
+755,C012,Ice Cream,Dessert,Delivery,1.0,110.0,2026-03-05 08:11:00
+756,C237,Salad,Starter,Dine-in,2.0,120.0,2026-03-01 16:32:00
+757,C249,Pasta,Main Course,Delivery,1.0,250.0,2026-03-24 20:44:00
+758,C053,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-12 13:13:00
+759,C199,Salad,Starter,Delivery,4.0,120.0,2026-03-11 18:56:00
+760,C138,Steak,Main Course,Dine-in,4.0,950.0,2026-03-17 16:56:00
+761,C173,Coffee,Beverage,Takeaway,2.0,80.0,2026-03-04 14:07:00
+762,C145,Biryani,Main Course,Delivery,2.0,280.0,2026-03-15 08:07:00
+763,C154,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-25 19:26:00
+764,C213,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-30 19:11:00
+765,C220,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-09 08:00:00
+766,C190,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-21 13:42:00
+767,C122,Pasta,Main Course,Delivery,3.0,250.0,2026-03-20 12:39:00
+768,C046,Coffee,Beverage,Dine-in,1.0,80.0,2026-03-19 16:41:00
+769,C064,Salad,Starter,Takeaway,1.0,120.0,2026-03-19 09:50:00
+770,C130,Biryani,Main Course,Dine-in,3.0,280.0,2026-03-12 15:10:00
+771,C054,Soup,Starter,Dine-in,1.0,90.0,2026-03-05 18:38:00
+772,C107,Noodles,Main Course,Delivery,4.0,200.0,2026-03-10 12:42:00
+773,C193,Biryani,Main Course,Dine-in,1.0,280.0,2026-03-17 09:30:00
+774,C051,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-05 20:16:00
+775,C181,Steak,Main Course,Takeaway,2.0,950.0,2026-03-22 17:32:00
+776,C036,Salad,Starter,Takeaway,2.0,120.0,2026-03-16 18:31:00
+777,C115,Steak,Main Course,Takeaway,2.0,950.0,2026-03-07 18:57:00
+778,C026,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-28 19:28:00
+779,C029,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-09 13:20:00
+780,C149,Sandwich,Starter,Delivery,3.0,130.0,2026-03-03 17:20:00
+781,C011,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-15 15:39:00
+782,C040,Steak,Main Course,Dine-in,4.0,950.0,2026-03-16 11:22:00
+783,C011,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-18 09:55:00
+784,C164,Noodles,Main Course,Delivery,1.0,200.0,2026-03-14 19:05:00
+785,C113,Pasta,Main Course,Dine-in,4.0,250.0,2026-03-03 18:21:00
+786,C187,Steak,Main Course,Delivery,2.0,950.0,2026-03-12 12:49:00
+787,C039,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-09 22:37:00
+788,C232,Soup,Starter,Takeaway,2.0,90.0,2026-03-28 19:36:00
+789,C227,Soup,Starter,Dine-in,3.0,90.0,2026-03-07 09:44:00
+790,C054,Pizza,Main Course,Delivery,4.0,300.0,2026-03-09 09:50:00
+791,C098,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-13 22:53:00
+792,C055,Salad,Starter,Delivery,1.0,120.0,2026-03-18 13:07:00
+793,C111,Sandwich,Starter,Delivery,3.0,130.0,2026-03-05 23:40:00
+794,C152,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-13 18:48:00
+795,C246,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-04 17:34:00
+796,C150,Burger,Main Course,Dine-in,4.0,150.0,2026-03-31 16:50:00
+797,C069,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-02 20:10:00
+798,C056,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-16 11:23:00
+799,C033,Steak,Main Course,Takeaway,1.0,950.0,2026-03-09 13:48:00
+800,C250,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-09 23:20:00
+801,C036,Fries,Starter,Takeaway,2.0,100.0,2026-03-06 14:50:00
+802,C239,Sandwich,Starter,Delivery,2.0,130.0,2026-03-11 20:01:00
+803,C148,Salad,Starter,Delivery,3.0,120.0,2026-03-22 18:39:00
+804,C211,Pizza,Main Course,Delivery,4.0,300.0,2026-03-24 13:18:00
+805,C227,Soup,Starter,Takeaway,4.0,90.0,2026-03-22 15:38:00
+806,C244,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-01 11:27:00
+807,C235,Pizza,Main Course,Delivery,2.0,300.0,2026-03-04 19:58:00
+808,C081,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-13 22:16:00
+809,C190,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-23 08:05:00
+810,C109,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-13 14:18:00
+811,C235,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-13 10:55:00
+812,C226,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-02 21:37:00
+813,C201,Fries,Starter,Takeaway,2.0,100.0,2026-03-09 13:27:00
+814,C154,Ice Cream,Dessert,Delivery,1.0,110.0,2026-03-24 09:01:00
+815,C194,Burger,Main Course,Dine-in,1.0,150.0,2026-03-08 16:37:00
+816,C245,Tacos,Main Course,Takeaway,3.0,220.0,2026-03-07 08:54:00
+817,C073,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-04 13:36:00
+818,C201,Burger,Main Course,Dine-in,2.0,150.0,2026-03-18 13:50:00
+819,C040,Steak,Main Course,Delivery,1.0,950.0,2026-03-03 12:51:00
+820,C017,Salad,Starter,Dine-in,3.0,120.0,2026-03-28 23:03:00
+821,C129,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-06 20:21:00
+822,C217,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-12 12:25:00
+823,C061,Biryani,Main Course,Delivery,2.0,280.0,2026-03-12 08:48:00
+824,C171,Tacos,Main Course,Delivery,3.0,220.0,2026-03-21 17:42:00
+825,C104,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-28 19:35:00
+826,C042,Pasta,Main Course,Delivery,3.0,250.0,2026-03-08 12:57:00
+827,C025,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-22 09:12:00
+828,C039,Coffee,Beverage,Delivery,4.0,80.0,2026-03-22 14:51:00
+829,C035,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-01 10:57:00
+830,C131,Steak,Main Course,Delivery,1.0,950.0,2026-03-04 20:31:00
+831,C242,Soup,Starter,Delivery,1.0,90.0,2026-03-21 22:16:00
+832,C229,Sandwich,Starter,Delivery,4.0,130.0,2026-03-28 11:40:00
+833,C108,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-11 10:35:00
+834,C172,Pasta,Main Course,Delivery,2.0,250.0,2026-03-03 10:54:00
+835,C179,Steak,Main Course,Delivery,3.0,950.0,2026-03-13 11:59:00
+836,C222,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-25 12:45:00
+837,C102,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-17 08:18:00
+838,C098,Ice Cream,Dessert,Delivery,1.0,110.0,2026-03-22 11:57:00
+839,C012,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-22 19:59:00
+840,C019,Coffee,Beverage,Delivery,1.0,80.0,2026-03-10 19:34:00
+841,C101,Sandwich,Starter,Delivery,4.0,130.0,2026-03-21 18:45:00
+842,C044,Biryani,Main Course,Delivery,2.0,280.0,2026-03-12 15:39:00
+843,C187,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-15 17:55:00
+844,C049,Fries,Starter,Dine-in,3.0,100.0,2026-03-21 14:58:00
+845,C189,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-10 16:27:00
+846,C017,Salad,Starter,Takeaway,4.0,120.0,2026-03-14 12:00:00
+847,C074,Steak,Main Course,Takeaway,4.0,950.0,2026-03-13 20:41:00
+848,C057,Burger,Main Course,Dine-in,3.0,150.0,2026-03-05 22:17:00
+849,C055,Pasta,Main Course,Takeaway,3.0,250.0,2026-03-06 17:47:00
+850,C241,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-24 11:39:00
+851,C047,Coffee,Beverage,Delivery,1.0,80.0,2026-03-02 15:32:00
+852,C012,Salad,Starter,Delivery,4.0,120.0,2026-03-22 16:11:00
+853,C062,Coffee,Beverage,Dine-in,4.0,80.0,2026-03-17 20:07:00
+854,C080,Burger,Main Course,Takeaway,1.0,150.0,2026-03-04 14:23:00
+855,C216,Salad,Starter,Dine-in,4.0,120.0,2026-03-14 21:15:00
+856,C083,Fries,Starter,Takeaway,3.0,100.0,2026-03-10 23:49:00
+857,C008,Burger,Main Course,Delivery,3.0,150.0,2026-03-03 14:03:00
+858,C223,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-25 23:37:00
+859,C149,Noodles,Main Course,Takeaway,3.0,200.0,2026-03-03 12:43:00
+860,C081,Tacos,Main Course,Takeaway,3.0,220.0,2026-03-15 11:26:00
+861,C215,Sandwich,Starter,Delivery,4.0,130.0,2026-03-06 21:08:00
+862,C229,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-17 17:46:00
+863,C118,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-12 08:15:00
+864,C208,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-22 17:55:00
+865,C198,Ice Cream,Dessert,Delivery,2.0,110.0,2026-03-20 17:11:00
+866,C200,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-24 14:30:00
+867,C025,Tacos,Main Course,Delivery,3.0,220.0,2026-03-29 23:23:00
+868,C210,Noodles,Main Course,Delivery,1.0,200.0,2026-03-11 08:54:00
+869,C089,Soup,Starter,Delivery,3.0,90.0,2026-03-25 08:13:00
+870,C012,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-04 12:44:00
+871,C143,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-26 20:24:00
+872,C059,Biryani,Main Course,Dine-in,1.0,280.0,2026-03-28 16:33:00
+873,C154,Pasta,Main Course,Delivery,2.0,250.0,2026-03-26 13:02:00
+874,C233,Pasta,Main Course,Delivery,4.0,250.0,2026-03-06 10:57:00
+875,C109,Biryani,Main Course,Dine-in,2.0,280.0,2026-03-01 20:23:00
+876,C026,Salad,Starter,Delivery,4.0,120.0,2026-03-20 10:53:00
+877,C047,Pizza,Main Course,Dine-in,4.0,300.0,2026-03-23 14:41:00
+878,C032,Salad,Starter,Takeaway,1.0,120.0,2026-03-28 13:08:00
+879,C010,Burger,Main Course,Delivery,3.0,150.0,2026-03-16 16:25:00
+880,C016,Burger,Main Course,Dine-in,1.0,150.0,2026-03-15 13:19:00
+881,C199,Noodles,Main Course,Delivery,3.0,200.0,2026-03-17 12:39:00
+882,C145,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-08 17:09:00
+883,C151,Tacos,Main Course,Dine-in,1.0,220.0,2026-03-28 14:18:00
+884,C026,Pasta,Main Course,Delivery,3.0,250.0,2026-03-26 08:02:00
+885,C213,Steak,Main Course,Takeaway,2.0,950.0,2026-03-12 19:23:00
+886,C086,Salad,Starter,Dine-in,3.0,120.0,2026-03-27 14:04:00
+887,C250,Soup,Starter,Dine-in,1.0,90.0,2026-03-22 23:02:00
+888,C135,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-21 10:57:00
+889,C014,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-10 21:26:00
+890,C079,Fries,Starter,Takeaway,3.0,100.0,2026-03-27 16:15:00
+891,C117,Tacos,Main Course,Delivery,3.0,220.0,2026-03-15 22:48:00
+892,C007,Coffee,Beverage,Takeaway,3.0,80.0,2026-03-30 13:14:00
+893,C137,Fries,Starter,Delivery,3.0,100.0,2026-03-09 16:34:00
+894,C115,Coffee,Beverage,Delivery,2.0,80.0,2026-03-02 20:11:00
+895,C176,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-05 22:40:00
+896,C072,Fries,Starter,Delivery,2.0,100.0,2026-03-06 12:52:00
+897,C242,Sandwich,Starter,Takeaway,2.0,130.0,2026-03-07 14:43:00
+898,C059,Coffee,Beverage,Delivery,2.0,80.0,2026-03-21 20:25:00
+899,C215,Biryani,Main Course,Takeaway,4.0,280.0,2026-03-25 23:46:00
+900,C221,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-01 21:33:00
+901,C082,Fries,Starter,Delivery,4.0,100.0,2026-03-23 11:22:00
+902,C223,Sandwich,Starter,Dine-in,2.0,130.0,2026-03-26 22:30:00
+903,C222,Coffee,Beverage,Delivery,3.0,80.0,2026-03-07 23:49:00
+904,C116,Pizza,Main Course,Takeaway,3.0,300.0,2026-03-20 14:19:00
+905,C167,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-25 20:11:00
+906,C227,Coffee,Beverage,Delivery,3.0,80.0,2026-03-30 08:22:00
+907,C146,Noodles,Main Course,Delivery,2.0,200.0,2026-03-12 14:03:00
+908,C187,Salad,Starter,Delivery,3.0,120.0,2026-03-16 15:22:00
+909,C234,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-16 12:47:00
+910,C103,Soup,Starter,Takeaway,1.0,90.0,2026-03-11 09:54:00
+911,C017,Tacos,Main Course,Delivery,1.0,220.0,2026-03-21 12:47:00
+912,C014,Burger,Main Course,Delivery,4.0,150.0,2026-03-04 13:00:00
+913,C159,Salad,Starter,Delivery,4.0,120.0,2026-03-13 19:53:00
+914,C152,Burger,Main Course,Delivery,2.0,150.0,2026-03-07 09:24:00
+915,C227,Noodles,Main Course,Delivery,2.0,200.0,2026-03-04 21:01:00
+916,C108,Biryani,Main Course,Takeaway,2.0,280.0,2026-03-15 13:29:00
+917,C188,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-19 13:02:00
+918,C045,Coffee,Beverage,Delivery,2.0,80.0,2026-03-09 08:57:00
+919,C098,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-11 21:20:00
+920,C131,Ice Cream,Dessert,Takeaway,1.0,110.0,2026-03-08 08:24:00
+921,C037,Pasta,Main Course,Dine-in,3.0,250.0,2026-03-01 21:19:00
+922,C171,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-23 18:48:00
+923,C168,Tacos,Main Course,Delivery,3.0,220.0,2026-03-25 23:51:00
+924,C218,Pizza,Main Course,Takeaway,3.0,300.0,2026-03-24 17:21:00
+925,C183,Pasta,Main Course,Delivery,2.0,250.0,2026-03-08 10:20:00
+926,C215,Noodles,Main Course,Takeaway,3.0,200.0,2026-03-13 21:32:00
+927,C108,Salad,Starter,Delivery,1.0,120.0,2026-03-22 17:51:00
+928,C039,Pizza,Main Course,Delivery,4.0,300.0,2026-03-27 17:37:00
+929,C015,Sandwich,Starter,Delivery,4.0,130.0,2026-03-04 22:14:00
+930,C120,Fries,Starter,Delivery,1.0,100.0,2026-03-08 19:57:00
+931,C241,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-03 10:57:00
+932,C004,Soup,Starter,Delivery,2.0,90.0,2026-03-29 11:45:00
+933,C093,Ice Cream,Dessert,Dine-in,3.0,110.0,2026-03-09 09:51:00
+934,C214,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-29 16:14:00
+935,C153,Steak,Main Course,Delivery,3.0,950.0,2026-03-02 17:45:00
+936,C141,Fries,Starter,Dine-in,4.0,100.0,2026-03-02 19:24:00
+937,C210,Burger,Main Course,Takeaway,3.0,150.0,2026-03-28 18:20:00
+938,C161,Tacos,Main Course,Delivery,1.0,220.0,2026-03-13 21:23:00
+939,C016,Burger,Main Course,Dine-in,4.0,150.0,2026-03-15 14:56:00
+940,C237,Pizza,Main Course,Delivery,3.0,300.0,2026-03-28 14:57:00
+941,C170,Burger,Main Course,Delivery,3.0,150.0,2026-03-23 22:04:00
+942,C108,Soup,Starter,Delivery,4.0,90.0,2026-03-12 13:05:00
+943,C126,Noodles,Main Course,Dine-in,2.0,200.0,2026-03-26 22:48:00
+944,C194,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-04 10:42:00
+945,C055,Salad,Starter,Takeaway,2.0,120.0,2026-03-26 13:47:00
+946,C227,Tacos,Main Course,Dine-in,1.0,220.0,2026-03-08 22:43:00
+947,C170,Soup,Starter,Delivery,1.0,90.0,2026-03-09 21:46:00
+948,C034,Soup,Starter,Dine-in,4.0,90.0,2026-03-23 19:22:00
+949,C158,Burger,Main Course,Dine-in,4.0,150.0,2026-03-05 15:03:00
+950,C247,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-24 15:26:00
+951,C013,Burger,Main Course,Delivery,2.0,150.0,2026-03-20 18:17:00
+952,C141,Pizza,Main Course,Dine-in,1.0,300.0,2026-03-18 20:20:00
+953,C018,Salad,Starter,Delivery,4.0,120.0,2026-03-11 16:27:00
+954,C160,Pasta,Main Course,Dine-in,1.0,250.0,2026-03-15 22:34:00
+955,C096,Burger,Main Course,Takeaway,4.0,150.0,2026-03-28 08:21:00
+956,C227,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-22 21:39:00
+957,C123,Steak,Main Course,Dine-in,1.0,950.0,2026-03-09 08:22:00
+958,C039,Tacos,Main Course,Takeaway,2.0,220.0,2026-03-17 10:02:00
+959,C046,Coffee,Beverage,Delivery,3.0,80.0,2026-03-27 10:39:00
+960,C244,Burger,Main Course,Delivery,1.0,150.0,2026-03-26 17:49:00
+961,C029,Noodles,Main Course,Dine-in,3.0,200.0,2026-03-12 15:09:00
+962,C190,Noodles,Main Course,Takeaway,1.0,200.0,2026-03-07 22:24:00
+963,C241,Tacos,Main Course,Delivery,3.0,220.0,2026-03-10 17:51:00
+964,C221,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-25 08:48:00
+965,C062,Noodles,Main Course,Takeaway,2.0,200.0,2026-03-26 20:07:00
+966,C245,Steak,Main Course,Delivery,1.0,950.0,2026-03-25 09:54:00
+967,C236,Noodles,Main Course,Delivery,4.0,200.0,2026-03-10 09:10:00
+968,C185,Noodles,Main Course,Takeaway,3.0,200.0,2026-03-27 10:04:00
+969,C016,Noodles,Main Course,Takeaway,4.0,200.0,2026-03-13 20:57:00
+970,C184,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-19 13:44:00
+971,C236,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-11 08:52:00
+972,C239,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-13 09:54:00
+973,C121,Burger,Main Course,Takeaway,1.0,150.0,2026-03-21 20:36:00
+974,C010,Noodles,Main Course,Delivery,1.0,200.0,2026-03-08 23:55:00
+975,C158,Salad,Starter,Delivery,2.0,120.0,2026-03-08 22:58:00
+976,C153,Burger,Main Course,Dine-in,2.0,150.0,2026-03-04 20:44:00
+977,C103,Pasta,Main Course,Delivery,1.0,250.0,2026-03-15 23:37:00
+978,C084,Ice Cream,Dessert,Delivery,4.0,110.0,2026-03-31 08:28:00
+979,C133,Ice Cream,Dessert,Takeaway,3.0,110.0,2026-03-28 12:04:00
+980,C065,Biryani,Main Course,Delivery,3.0,280.0,2026-03-11 23:08:00
+981,C222,Burger,Main Course,Dine-in,3.0,150.0,2026-03-11 20:58:00
+982,C177,Burger,Main Course,Takeaway,4.0,150.0,2026-03-01 20:47:00
+983,C003,Fries,Starter,Takeaway,1.0,100.0,2026-03-17 14:01:00
+984,C173,Pizza,Main Course,Dine-in,2.0,300.0,2026-03-15 23:00:00
+985,C142,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-20 15:39:00
+986,C120,Fries,Starter,Takeaway,4.0,100.0,2026-03-06 17:59:00
+987,C158,Steak,Main Course,Dine-in,2.0,950.0,2026-03-24 08:50:00
+988,C242,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-22 14:29:00
+989,C068,Sandwich,Starter,Dine-in,3.0,130.0,2026-03-28 20:10:00
+990,C146,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-25 12:27:00
+991,C190,Tacos,Main Course,Delivery,4.0,220.0,2026-03-15 17:43:00
+992,C037,Tacos,Main Course,Delivery,2.0,220.0,2026-03-31 08:11:00
+993,C153,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-09 10:38:00
+994,C176,Soup,Starter,Takeaway,1.0,90.0,2026-03-14 14:25:00
+995,C193,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-18 17:12:00
+996,C181,Coffee,Beverage,Takeaway,1.0,80.0,2026-03-26 08:58:00
+997,C238,Burger,Main Course,Dine-in,1.0,150.0,2026-03-17 14:07:00
+998,C207,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-18 12:53:00
+999,C073,Coffee,Beverage,Takeaway,4.0,80.0,2026-03-05 08:27:00
+1000,C143,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-20 08:57:00
+1001,C049,Soup,Starter,Delivery,3.0,90.0,2026-03-20 21:29:00
+1002,C121,Salad,Starter,Takeaway,4.0,120.0,2026-03-09 08:08:00
+1003,C088,Burger,Main Course,Delivery,1.0,150.0,2026-03-11 18:38:00
+1004,C196,Steak,Main Course,Takeaway,1.0,950.0,2026-03-24 16:30:00
+1005,C140,Noodles,Main Course,Dine-in,1.0,200.0,2026-03-22 18:57:00
+1006,C187,Noodles,Main Course,Takeaway,1.0,200.0,2026-03-01 20:20:00
+1007,C250,Pizza,Main Course,Delivery,1.0,300.0,2026-03-18 10:55:00
+1008,C037,Soup,Starter,Dine-in,1.0,90.0,2026-03-06 22:46:00
+1009,C061,Pasta,Main Course,Takeaway,4.0,250.0,2026-03-27 20:33:00
+1010,C229,Steak,Main Course,Takeaway,3.0,950.0,2026-03-02 12:54:00
+1011,C171,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-15 18:30:00
+1012,C124,Coffee,Beverage,Delivery,2.0,80.0,2026-03-29 23:51:00
+1013,C198,Pizza,Main Course,Delivery,4.0,300.0,2026-03-26 17:24:00
+1014,C039,Tacos,Main Course,Takeaway,4.0,220.0,2026-03-21 19:11:00
+1015,C184,Pizza,Main Course,Dine-in,1.0,300.0,2026-03-14 23:00:00
+1016,C063,Pizza,Main Course,Dine-in,4.0,300.0,2026-03-05 16:54:00
+1017,C046,Pizza,Main Course,Delivery,1.0,300.0,2026-03-06 13:21:00
+1018,C088,Soup,Starter,Dine-in,3.0,90.0,2026-03-06 19:39:00
+1019,C011,Pasta,Main Course,Delivery,3.0,250.0,2026-03-30 16:36:00
+1020,C062,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-22 15:46:00
+1021,C077,Biryani,Main Course,Delivery,4.0,280.0,2026-03-30 15:00:00
+1022,C226,Salad,Starter,Delivery,2.0,120.0,2026-03-18 08:00:00
+1023,C153,Tacos,Main Course,Takeaway,4.0,220.0,2026-03-14 20:56:00
+1024,C199,Burger,Main Course,Dine-in,2.0,150.0,2026-03-10 16:41:00
+1025,C052,Fries,Starter,Delivery,3.0,100.0,2026-03-14 13:53:00
+1026,C004,Coffee,Beverage,Delivery,3.0,80.0,2026-03-13 23:41:00
+1027,C059,Steak,Main Course,Takeaway,1.0,950.0,2026-03-31 16:20:00
+1028,C072,Sandwich,Starter,Dine-in,3.0,130.0,2026-03-30 10:14:00
+1029,C148,Pasta,Main Course,Delivery,2.0,250.0,2026-03-03 19:16:00
+1030,C093,Burger,Main Course,Takeaway,4.0,150.0,2026-03-30 10:21:00
+1031,C063,Noodles,Main Course,Delivery,1.0,200.0,2026-03-06 13:37:00
+1032,C054,Ice Cream,Dessert,Takeaway,2.0,110.0,2026-03-29 16:34:00
+1033,C117,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-08 14:44:00
+1034,C243,Sandwich,Starter,Dine-in,1.0,130.0,2026-03-12 21:15:00
+1035,C237,Fries,Starter,Dine-in,3.0,100.0,2026-03-13 20:07:00
+1036,C110,Burger,Main Course,Dine-in,2.0,150.0,2026-03-11 10:46:00
+1037,C074,Sandwich,Starter,Delivery,4.0,130.0,2026-03-12 10:16:00
+1038,C107,Burger,Main Course,Delivery,1.0,150.0,2026-03-01 09:16:00
+1039,C226,Coffee,Beverage,Dine-in,1.0,80.0,2026-03-17 16:53:00
+1040,C057,Biryani,Main Course,Dine-in,3.0,280.0,2026-03-16 20:25:00
+1041,C218,Fries,Starter,Dine-in,4.0,100.0,2026-03-11 22:12:00
+1042,C169,Noodles,Main Course,Delivery,3.0,200.0,2026-03-13 10:16:00
+1043,C241,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-18 18:37:00
+1044,C250,Tacos,Main Course,Dine-in,4.0,220.0,2026-03-11 12:16:00
+1045,C003,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-31 21:47:00
+1046,C120,Pizza,Main Course,Takeaway,4.0,300.0,2026-03-28 21:13:00
+1047,C006,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-12 16:44:00
+1048,C005,Soup,Starter,Takeaway,4.0,90.0,2026-03-06 15:05:00
+1049,C005,Soup,Starter,Takeaway,1.0,90.0,2026-03-09 09:34:00
+1050,C054,Soup,Starter,Dine-in,3.0,90.0,2026-03-16 10:45:00
+1051,C047,Pasta,Main Course,Takeaway,2.0,250.0,2026-03-04 23:13:00
+1052,C215,Salad,Starter,Dine-in,4.0,120.0,2026-03-03 23:46:00
+1053,C177,Steak,Main Course,Delivery,2.0,950.0,2026-03-28 09:07:00
+1054,C009,Steak,Main Course,Delivery,4.0,950.0,2026-03-16 23:14:00
+1055,C099,Soup,Starter,Delivery,2.0,90.0,2026-03-24 15:53:00
+1056,C020,Tacos,Main Course,Delivery,3.0,220.0,2026-03-27 13:26:00
+1057,C122,Fries,Starter,Takeaway,3.0,100.0,2026-03-26 13:12:00
+1058,C241,Biryani,Main Course,Dine-in,1.0,280.0,2026-03-30 19:48:00
+1059,C061,Fries,Starter,Dine-in,1.0,100.0,2026-03-25 22:30:00
+1060,C123,Biryani,Main Course,Dine-in,4.0,280.0,2026-03-12 16:52:00
+1061,C234,Fries,Starter,Delivery,3.0,100.0,2026-03-11 15:55:00
+1062,C163,Salad,Starter,Delivery,2.0,120.0,2026-03-05 11:34:00
+1063,C178,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-25 22:59:00
+1064,C082,Pasta,Main Course,Delivery,2.0,250.0,2026-03-18 19:05:00
+1065,C062,Soup,Starter,Dine-in,1.0,90.0,2026-03-19 11:04:00
+1066,C145,Ice Cream,Dessert,Dine-in,2.0,110.0,2026-03-23 16:21:00
+1067,C216,Pizza,Main Course,Dine-in,1.0,300.0,2026-03-23 08:57:00
+1068,C003,Ice Cream,Dessert,Dine-in,1.0,110.0,2026-03-06 20:48:00
+1069,C160,Sandwich,Starter,Dine-in,4.0,130.0,2026-03-22 09:22:00
+1070,C227,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-18 09:24:00
+1071,C230,Pasta,Main Course,Dine-in,2.0,250.0,2026-03-26 20:33:00
+1072,C013,Noodles,Main Course,Delivery,3.0,200.0,2026-03-06 20:25:00
+1073,C120,Noodles,Main Course,Dine-in,4.0,200.0,2026-03-04 13:46:00
+1074,C125,Pizza,Main Course,Dine-in,3.0,300.0,2026-03-12 22:04:00
+1075,C239,Coffee,Beverage,Delivery,4.0,80.0,2026-03-19 11:25:00
+1076,C089,Sandwich,Starter,Delivery,2.0,130.0,2026-03-29 23:19:00
+1077,C073,Ice Cream,Dessert,Delivery,1.0,110.0,2026-03-27 20:05:00
+1078,C068,Tacos,Main Course,Dine-in,1.0,220.0,2026-03-29 18:05:00
+1079,C142,Noodles,Main Course,Takeaway,1.0,200.0,2026-03-02 17:58:00
+1080,C101,Tacos,Main Course,Takeaway,1.0,220.0,2026-03-17 20:49:00
+1081,C098,Burger,Main Course,Delivery,1.0,150.0,2026-03-11 10:17:00
+1082,C011,Noodles,Main Course,Takeaway,3.0,200.0,2026-03-11 10:03:00
+1083,C105,Salad,Starter,Delivery,4.0,120.0,2026-03-21 10:16:00
+1084,C184,Coffee,Beverage,Dine-in,2.0,80.0,2026-03-16 13:56:00
+1085,C067,Sandwich,Starter,Takeaway,3.0,130.0,2026-03-02 21:13:00
+1086,C123,Pizza,Main Course,Dine-in,4.0,300.0,2026-03-02 23:13:00
+1087,C220,Burger,Main Course,Takeaway,1.0,150.0,2026-03-23 15:12:00
+1088,C029,Sandwich,Starter,Dine-in,4.0,130.0,2026-03-08 18:06:00
+1089,C137,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-13 14:43:00
+1090,C195,Soup,Starter,Dine-in,1.0,90.0,2026-03-10 21:54:00
+1091,C153,Salad,Starter,Dine-in,1.0,120.0,2026-03-08 11:14:00
+1092,C226,Sandwich,Starter,Takeaway,1.0,130.0,2026-03-30 18:18:00
+1093,C076,Salad,Starter,Dine-in,2.0,120.0,2026-03-04 19:42:00
+1094,C170,Salad,Starter,Dine-in,1.0,120.0,2026-03-15 11:46:00
+1095,C009,Tacos,Main Course,Dine-in,2.0,220.0,2026-03-30 18:43:00
+1096,C207,Fries,Starter,Takeaway,1.0,100.0,2026-03-01 17:34:00
+1097,C040,Soup,Starter,Takeaway,2.0,90.0,2026-03-11 22:16:00
+1098,C025,Ice Cream,Dessert,Dine-in,4.0,110.0,2026-03-07 18:34:00
+1099,C005,Burger,Main Course,Dine-in,3.0,150.0,2026-03-17 23:18:00
+1100,C139,Sandwich,Starter,Takeaway,4.0,130.0,2026-03-27 18:19:00
+101,C036,Steak,Main Course,Takeaway,4.0,950.0,2026-03-28 11:29:00
+102,C001,Biryani,Main Course,Delivery,3.0,280.0,2026-03-01 15:42:00
+103,C008,Ice Cream,Dessert,Takeaway,4.0,110.0,2026-03-26 09:01:00
+104,C113,Soup,Starter,Delivery,1.0,90.0,2026-03-07 13:48:00
+105,C099,Fries,Starter,Takeaway,1.0,100.0,2026-03-21 20:08:00
